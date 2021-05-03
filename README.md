@@ -1,4 +1,7 @@
 Olá! Eu fiz a primeira parte da página teste. Segue o resultado e minha trajetória: 
+
+![Por favor veja a imagem: FireShot Capture 007 - Hyperativa3 - localhost.png na raiz do projeto para ver a página como ficou](https://github.com/NMarlon/hyperativa/blob/f4ba2a98139da5649b3626861082b232ce4bde7a/FireShot%20Capture%20007%20-%20Hyperativa3%20-%20localhost.png)
+
 * Na sexta-feira eu fiz a prova de MySQL 
 * No sábado eu passei o dia instalando o Angular CLI, o Json-Server e o NodeJS, configurando o programa de edição do código e o computador para suportar o Angular CLI .  
 * (HOJE) Segunda-feira pesquisei em como iria fazer a página no Angular e comecei à fazer:
