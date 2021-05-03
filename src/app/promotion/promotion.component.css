@@ -1,0 +1,38 @@
+.background-gradiente-blue{
+	background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(12,64,163,1) 100%);
+}
+
+.promotion-highlight{
+	color:white;
+	padding: 25px;
+	display:grid;
+	height: 490px;
+}
+.divisor-dimensions{
+	width: 70%;
+	margin: auto;
+}
+.img-pizza{
+right: 0
+}
+.caixa-pizza{
+	width:70%;
+	height: 514px;
+}
+.img-pizza {
+    width: 100%;
+    object-fit: cover;
+    
+
+
+}
+
+.button-promotion-highlight{
+	margin:12px auto;
+	display: block;
+
+	margin-bottom: 0;
+	border:none;
+
+}

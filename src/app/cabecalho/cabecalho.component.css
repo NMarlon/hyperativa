@@ -1,0 +1,44 @@
+.cabecalho{
+	background: #1A1F71;
+width: 100%;
+min-height: 90px;
+max-height: 30vh;
+height: 20vh;
+margin: auto;
+display: flex;
+}
+.entrar{
+	
+    border: 1px solid white;
+    border-top-color: white;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: white;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: white;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: white;
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    background: none;
+    width: auto;
+    max-height: 50px;
+    margin: auto;
+    margin-right: auto;
+    margin-right: 10vw;
+    color: white;
+    display: block;
+    cursor: pointer;
+    padding: 10px 30px;
+    min-margin-top: 20px;
+    min-margin-bottom: 20px;
+    min-height: 50px;
+    font-weight: bolder;
+}

@@ -1,1 +1,66 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+	margin: 0;
+	padding: 0;
+}
+.linha{
+	display:inline-flex;
+	margin: auto 0;
+	padding:20px;
+	width: -moz-available;
+
+}
+.botoes-max-height{
+	max-height: 50px;
+}
+.cor-amarela{
+	color:#F6B330; 
+}
+.background-amarelo{
+	background:#F6B330;
+}
+.cor-azul{
+	color:rgb(2,0,36);
+}
+.border-botoes{
+	border-radius: 6px;
+}
+.padding-botoes{
+	padding: 10px 30px;
+}
+.b{
+	font-weight: bolder;
+}
+.marcador{
+	color:#F6B330; 
+	margin: auto;
+	padding:10px;
+	font-weight: bolder;
+	font-size:2em;
+}
+.img-tam-orig{
+	object-fit: contain;
+	height: auto;
+	}
+.tab-right-20{
+	margin-right: 20px;
+}
+.rotate-180{
+	transform: rotate(180deg);
+}
+.titulo-nivel-2{
+	font-size:1.5em;
+}
+app-promotion{
+	width:100%;
+}
+.divisor{
+	border-top:1px solid;
+}
+.border-white{
+	border-color:white;
+
+}
+.opacity025{
+	opacity:0.25;
+}

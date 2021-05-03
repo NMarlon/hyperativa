@@ -1,0 +1,35 @@
+<div class="linha">
+	<img class="img-tam-orig tab-right-20 rotate-180" width="28" src="../assets/arrow-faq-collapsed.png">
+	<h1 class="titulo-nivel-2" *ngFor="let promotion of promotions">{{promotion.title}}</h1>
+</div>
+<body>
+	<div class="linha" >
+		
+		<div class="caixa-pizza">
+			<img class="img-pizza " height="105%" src="../assets/pizza.jpg" alt="pizza, imagem de apresentação">
+			
+		</div>
+		<div width="30%" class="background-gradiente-blue promotion-highlight" >
+			<br>
+			<br>
+			<br>
+			<div *ngFor="let promotion of promotions">	
+				{{promotion.highlightTitle}}
+			</div>
+
+			<br>
+			<br>	
+			<div  class="divisor border-white opacity025"></div>
+				<br>
+			<br>
+			
+			<div *ngFor="let promotion of promotions">	
+			{{promotion.highlightText}}
+			</div>
+
+			<br>
+			<br> 
+			<button class="b botoes-max-height  background-amarelo cor-azul border-botoes padding-botoes button-promotion-highlight" *ngFor="let promotion of promotions">{{promotion.highlightButtonText}}</button>
+		</div> 
+	</div>
+</body>
